@@ -1,0 +1,19 @@
+.popupInfo {
+  height: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.info {
+  margin: 10px 0;
+}
+.btns {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.btn {
+  margin: 10px;
+}
